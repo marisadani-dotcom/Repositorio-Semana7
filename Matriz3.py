@@ -20,4 +20,4 @@ for i in range(3):
 
 #sumar matrices 
 matrizC = []
-for i in range(len(matrizA))
+for i in range(len(matrizA)):
